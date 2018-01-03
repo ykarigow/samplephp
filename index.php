@@ -6,7 +6,7 @@
   <p> This is my pawan class of life </p>
 
 <?php
-echo "Version: 2.0";
+echo "Version: 2.2";
 ?>
 
 </body>
