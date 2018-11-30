@@ -6,7 +6,7 @@
   <p> This is my aws bean stalk paas</p>
   <p1> hey boss code is ready</p1>
   <p> Boom shakalaka bootha sundhari </p>
-  <p> Mass prince is on the way babu </p>
+  <p> Mass prince  </p>
 
 <?php
 echo "Version: 5.2";
