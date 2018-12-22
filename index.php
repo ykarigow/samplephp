@@ -6,7 +6,7 @@
   <p> This is my aws bean stalk paas</p>
   <p1> hey boss code is ready</p1>
   <p> shankar direction new movie is idian 2  </p>
-  <p> Mass prince  welcome add water release  and rajini is back  amy robot is good </p>
+  <p> Mass prince  welcome HPE and DXC tecinlgo add water release  and rajini is back  amy robot is good </p>
 
 <?php
 echo "Version: 5.2";
